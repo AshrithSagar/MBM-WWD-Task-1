@@ -1,13 +1,29 @@
 h1 {
   color: blue;
-  font-family: verdana;
   font-size: 300%;
 }
-p {
-  color: red;
-  font-family: courier;
-  font-size: 160%;
-  border: 2px solid powderblue;
-  padding: 30px;
-  margin: 50px;
+
+div {
+  font-size: 1.2rem;
+  color: #240007;
+  line-height: 1.5rem;
+  margin-bottom: 5rem;
+  padding: 1rem;
+    padding-top: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+  
+  font-family: "Catamaran",sans-serif,serif;
+
+  box-sizing: border-box;
+
+  text-align: center;
+
+  margin: 0;
+  padding: 0;
+
+  border-radius: 2px;
+  background-color: #badcb4;
+
 }
